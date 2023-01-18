@@ -23,7 +23,7 @@
 
 <br>
 
- ![Line Follower image](assets/LineFollower.jpeg)
+ ![Line Follower image](LineFollower.jpeg)
 
  <div align="center">
   <h3>
